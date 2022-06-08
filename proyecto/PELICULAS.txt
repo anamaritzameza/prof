@@ -1,0 +1,138 @@
+<HTML>
+                    <HEAD>
+                                        <TITLE>PELICULAS</TITLE>
+                    </HEAD>
+                    <BODY BGCOLOR=5D6D7E>
+<H2><CENTER> LAS  MEJORES PELICULAS DE DISNEY 
+<BR>
+<marquee width="50%" "right"behavior="alternate" bgcolor="CC6699 ">
+“LO MAS VISTO”</marquee></CENTER></H2>
+<HR COLOR=WHITE>
+<FONT SIZE=4 FACE=Bodoni MT>
+	<UL type=DISC>
+	<B><LI><H3><FONT COLOR=D1F2EB>"RATATOUILLE (2007)" </FONT></B><BR>
+<IMG SRC=K.jpg ALT="K" ALIGN=LEFT VSPACE=20 HSPACE=20 WIDTH=40%  HEIGHT=50%>
+<P>¡La rata puede cocinar! Esta peli ridículamente tierna es acerca de un inocente y ambicioso roedor llamado Remy, quien anhela convertirse en un gran chef, es ingeniosa, inteligente, gentilmente moral y dramáticamente convincente. ¿Y quién no ama a Linguini, un títere humano sin esperanza y que controlado por el supremamente talentoso Remy? ¿Ganarán contra el villano, un crítico de comida enloquecido por el poder llamado Anton Ego? No diremos más para no arruinar la diversión a aquellas tres personas allá afuera que aún no conocen el final.</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO3.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"101 DALMATAS (1961)" </FONT></B><BR>
+<IMG SRC=L.jpg ALT="L" ALIGN=RIGHT VSPACE=20 HSPACE=20>
+<P>
+¡Hay amor verdadero entre Pongo y Perdita! Afortunadamente para los cachorros, ellos también pueden forzar a sus dueños a salir. En este mundo no hay más que felicidad canina, hasta que la malhumorada Cruela de Vil aparece. Ella tiene su mirada puesta en los cachorros de Perdita para hacer con ellos peludos abrigos.
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO4.mp4" controls> </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"COCO (2017)" </FONT></B><BR>
+<IMG SRC=M.jpg ALT="M" ALIGN=LEFT VSPACE=20 HSPACE=20 WIDTH=25%  HEIGHT=50%>
+<P>
+Después de algunos esfuerzos dudosos, al menos según sus propios y elevados estándares, Pixar sigue la línea de Intensa-mente (Pete Docter, Artie Mandelberg, 2011) con una aventura ambientada en México que burbujea con ingenio y audacia. Es fácil deslizarse sin esfuerzo entre este espectáculo para niños y la emoción que —te arranca el corazón— por medio de toques surrealistas y fantásticos. 
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO5.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"LA DAMA Y EL VAGABUNDO (1955)" </FONT></B><BR>
+<IMG SRC=N.jpg ALT="N" ALIGN=RIGHT VSPACE=20 HSPACE=20>
+<P>
+Una sofisticada cocker spaniel y un perrito del lado incorrecto del camino se enamoran en este irresistible romance canino. Generaciones después, seguimos desvaneciéndonos por la clásica escena del espagueti entre los dos peludos. 
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO6.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"BLANCANIEVES Y LOS SIETE ENANOS (1937)" </FONT></B><BR>
+<IMG SRC=O.jpg ALT="O" ALIGN=LEFT VSPACE=20 HSPACE=20 WIDTH=40%  HEIGHT=50%>
+<P>
+Habla de celos en su máxima expresión. Una bruja malvada simplemente no puede tolerar la belleza de su hijastra y este desprecio lo lleva más allá hasta tomar la vida de la joven Blancanieves. Sin embargo, la reina se convierte en el hazmereír cuando Blancanieves aparece sana y salva viviendo en una casita acogedora en compañía de siete enanos. Aquí es cuando la reina intenta de nuevo su cometido: ella se transforma en una ancianita que le ofrece a la bella princesa una manzana envenenada, la cual la deja en estado inconsciente. Solo podrá deshacerse del hechizo con el beso del verdadero amor.
+</P>
+<HR COLOR=WHITE>
+<BR>
+<BR>
+<BR>
+<BR>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO7.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"EL REY LEÓN 1994)"</FONT></B><BR>
+<IMG SRC=P1.jpg ALT="P1" ALIGN=RIGHT VSPACE=20 HSPACE=20>
+<P>
+Rompecorazones (enternecedora) y entrañable, el clásico de Disney que trata sobre el joven león Simba, quien debe tomar el poder después de la pérdida de su padre, Mufasa. Pensarías que la familia sería empática, pero un malvado tío no le deja las cosas fáciles. ¡Aguanta Simba! Recuerda: Hakuna matata! (No olvides revisar la versión live action de 2019).
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO8.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"EL JOROBADO DE NOTRE DAME (1996)" </FONT></B><BR>
+<IMG SRC=Q.jpg ALT="Q" ALIGN=LEFT VSPACE=20 HSPACE=20 WIDTH=30%  HEIGHT=60% WIDTH=29%  HEIGHT=60%>
+<P>
+Esta adaptación de la novela clásica Notre Dame de Victor Hugo comienza con Quasimodo, un joven deformado, pero de buen corazón que es abandonado por sus padres y rescatado por el sacerdote de Notre Dame, la enorme catedral en el corazón de París. Él vive ahí, ganándose su fortaleza como un campanero.
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO9.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"FROZEN: UNA AVENTURA CONGELADA(2013)" </FONT></B><BR>
+<IMG SRC=R.jpg ALT="R" ALIGN=RIGHT VSPACE=20 HSPACE=20>
+<P>
+Al margen de las películas de Pixar, Disney sigue manteniendo activa su línea de animación infantil más tradicional: la de los cuentos de hadas. Ahora es el turno de Frozen: una aventura congelada, que recupera con toda fuerza el concepto "princesas Disney" después de una época difusa con heroínas que no acababan de funcionar como Tiana, Rapunzel o la iconoclasta pelirroja de Valiente, quizás la más renovadora entre las de su casta. 
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO10.mp4" controls></video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"MOANA (2016)" </FONT></B><BR>
+<IMG SRC=S.jpg ALT="S" ALIGN=LEFT VSPACE=20 HSPACE=20>
+<P>
+Esta película familiar animada sobre una adolescente polinesia que lucha para salvar el futuro de su isla del Pacífico se siente como un negocio ya común para Disney en diferentes maneras: hay una fuerte y joven líder femenina, canciones pegajosas, paisajes exuberantes y animales parlantes —un cangrejo ermitaño con una afición por las chucherías casi se roba el filme.
+</P>
+<HR COLOR=WHITE>
+<CENTER><CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO11.mp4" controls>  </video></CENTER>
+<BR>
+<BR>
+<BR>
+<BR>
+	<B><LI><FONT COLOR=D1F2EB>"INTENSA-MENTE (2015)" </FONT></B><BR>
+<IMG SRC=T.jpg ALT="T" ALIGN=RIGHT VSPACE=20 HSPACE=20>
+<P>
+“¿Qué tienes en la cabeza?”. Parece que esta frase común en los regaños de las mamás inspiró al director y guionista Pete Docter (Up, 2009) a realizar su nueva película. Con cinco personajes, el cineasta hace una divertida, fantástica e imaginativa explicación del funcionamiento de la mente. La cinta parte de la serie de cambios que atraviesa Riley, una niña que está por entrar a la adolescencia y debe mudarse con su familia a San Francisco. 
+</P>
+<HR COLOR=WHITE>
+<CENTER><video WIDTH=800 HEIGHT=400 src="VIDEO12.mp4" controls>  </video></CENTER>
+	</UL>
+</FONT>
+                    </BODY>
+</HTML>

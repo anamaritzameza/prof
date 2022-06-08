@@ -1,0 +1,21 @@
+<HTML>
+                    <HEAD>
+                                        <TITLE>DEFINICION</TITLE>
+                    </HEAD>
+                    <BODY bgcolor=AED6F1>
+<center>
+<marquee width="60%" "right"behavior="alternate" bgcolor="F5B7B1">
+<H2>DEFINICION DE DISNEY</H2>
+</marquee>
+</center>
+<HR COLOR=PURPLE>
+<BR>
+<IMG SRC=1.jpg ALT="1" ALIGN=LEFT VSPACE=20 HSPACE=20>
+<FONT SIZE=4 FACE=Bodoni MT>
+<P><blockquote>El término Disney es internacionalmente conocido y se asocia a la fantasía infantil y al mundo del espectáculo. Se trata de una compañía líder en el sector de los medios de comunicación que se fundó en 1923 en Hollywood, cuando el cine todavía no era sonoro y las películas de animación eran una auténtica rareza. El nombre de esta multinacional se debe a su fundador, Walt Disney.</blockquote></P>
+<p><blockquote>The Walt Disney Company (también conocida simplemente como Disney), es las segunda mayor compañía de entretenimiento en el mundo, después de Comcast . Las oficinas centrales de la compañía se encuentran en Burbank, California. En el año 2005 tuvo unos ingresos de 31 mil millones de dólares estadounidenses. Cotiza en la bolsa de Nueva York la clave NYSE:DIS y está listada dentro del DJIA.</blockquote></p>
+<p><blockquote>La compañía es dueña de una gran cantidad de medios de comunicación y entretenimiento, incluyendo la línea American Broadcasting Company (ABC), una de las más grandes e importantes de Estados Unidos y el mundo.</blockquote></p>
+<HR COLOR=PURPLE>
+</FONT>
+</BODY>
+</HTML>

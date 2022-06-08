@@ -1,0 +1,38 @@
+<HTML>
+                    <HEAD>
+                                        <TITLE>principal</TITLE>
+                    </HEAD>
+                    <BODY BACKGROUND=2.jpg>
+	<P ALIGN=CENTER><FONT SIZE=5 COLOR=snow FACE=Castellar>
+<BR>
+<BR>
+<B>
+Alumna: Ana Maritza Meza Rodríguez
+<br>
+<br>
+Grupo: 2IV3
+<br>
+<br>
+Materia: Computación Básica II
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Practica integradora Parcial "B"
+<br>
+<br>
+Turno: Vespertino
+</p>
+</B>
+</FONT>
+	</P>
+
+                    </BODY>
+</HTML>
+
+                    </BODY>
+</HTML>

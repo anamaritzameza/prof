@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE>DISNEY</TITLE>
+</HEAD>
+<FRAMESET ROWS=85%,15%>
+<FRAMESET COLS=15%,*>
+<FRAME SRC=Indice.html NAME="Indice" NORESIZE>
+<FRAME SRC=principal.html NAME="principal" SCROLLING=auto>
+</FRAMESET>
+<FRAME SRC=Título.html>
+</FRAMESET>
+</HTML>
